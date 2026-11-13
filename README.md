@@ -28,7 +28,19 @@ A Unity 3D action game project combining melee combat and gunplay, built on the 
 
 ## Screenshots and Media
 
-Screenshots here
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225906" src="https://github.com/user-attachments/assets/710e749d-5d9d-4432-a875-b03a4dd3da58" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225843" src="https://github.com/user-attachments/assets/a0980d9a-a3c8-434c-97c0-c867513a4077" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225823" src="https://github.com/user-attachments/assets/0c4118b0-d81d-4d82-8d68-355a6203a846" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225708" src="https://github.com/user-attachments/assets/31019272-07f7-462f-9e8d-54f4502b9df7" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 230501" src="https://github.com/user-attachments/assets/fdf4864e-5d27-4554-85f8-33d670f537dc" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 230442" src="https://github.com/user-attachments/assets/be7d91d3-1115-438d-888d-cd3e63a9994e" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 230436" src="https://github.com/user-attachments/assets/095e328c-1880-4150-aa31-b0b6efb06b8b" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 230420" src="https://github.com/user-attachments/assets/d20d9b46-86e2-414c-9e43-9af9cf7483de" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 230404" src="https://github.com/user-attachments/assets/377334a1-e04d-4030-b645-5691525506bb" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225941" src="https://github.com/user-attachments/assets/9f60cefd-bdcb-43e3-8e36-68269404fc93" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 225921" src="https://github.com/user-attachments/assets/ffac2158-4082-452d-a1b0-d2d9ae44c359" />
+
+
 
 
 ## Features
